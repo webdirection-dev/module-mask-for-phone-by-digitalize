@@ -12,8 +12,7 @@
 
 Копипаста не ломает маску.
 
-Авторский скрипт:
-https://github.com/alexey-goloburdin/phoneinput
+Авторский скрипт: [Alexey Goloburdin](https://github.com/alexey-goloburdin/phoneinput)
 
 
 ## Подключение модуля
