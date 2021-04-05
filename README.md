@@ -1,6 +1,6 @@
 # module-mask-for-phone-by-digitalize
 
-[Пример работы](http://c95387ot.beget.tech)
+Пример работы можно посмотреть[здесь](http://c95387ot.beget.tech)
 
 Маска для ввода российских и зарубежных номеров телефона. 
 
